@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Bogunn
-- 👀 I’m interested in learning about developing software
+- 👀 I’m interested in learning about front-end web development
 - 🌱 I’m currently learning js
 
 <!---
